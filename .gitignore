@@ -1,11 +1,11 @@
 # not ignore "gitignore" file and force adding it
 !/.gitignore
 
-# ignore jupyter notebook help folders
-.ipynb_checkpoints*/
+# ignore jupyter notebook help folders(double stars to ignore them in all sub-folders as well)
+.ipynb_checkpoints**/
 # and all checkpoint notebooks jupyter creates
-.~*
+.~**
 
 # folders of my other IDEs
-.vs/
-.idea/
+.vscode**/
+.idea**/
