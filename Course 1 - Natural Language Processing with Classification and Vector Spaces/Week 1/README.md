@@ -27,4 +27,6 @@
                 </p>
         </ul>
     </li>
+    <li>And finally, Logistic Regression model was trained on the created matrix, everything of which has been built scratch as part of the assignment.
+    </li>
 </ol>
